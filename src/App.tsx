@@ -5,8 +5,8 @@ import { Navbar } from "./components";
 function App() {
   return (
     <BrowserRouter>
-      <AppRoutes />
       <Navbar />
+      <AppRoutes />
     </BrowserRouter>
   );
 }

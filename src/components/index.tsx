@@ -1,5 +1,7 @@
+import Layout from "./Layout"
 import Navbar from "./Navbar"
 
 export {
-	Navbar
+	Navbar,
+	Layout,
 }
